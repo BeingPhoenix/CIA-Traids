@@ -18,7 +18,7 @@ Built using Python and tested on **Kali Linux**, this project helps you encrypt 
 
 ### 📥 Clone the Repository
 ```bash
-git clone https://github.com/yourusername/cia_secure_vault.git
+git clone https://github.com/beingphoenix/cia_secure_vault.git
 cd cia_secure_vault
 ```
 
